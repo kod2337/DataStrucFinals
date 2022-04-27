@@ -1,0 +1,12 @@
+C:\Users\Elijah hernandez\Downloads\DataStrucFinals-master (1)\DataStrucFinals-master\DataStrucFinals\bin\Debug\DataStrucFinals.exe.config
+C:\Users\Elijah hernandez\Downloads\DataStrucFinals-master (1)\DataStrucFinals-master\DataStrucFinals\bin\Debug\DataStrucFinals.exe
+C:\Users\Elijah hernandez\Downloads\DataStrucFinals-master (1)\DataStrucFinals-master\DataStrucFinals\bin\Debug\DataStrucFinals.pdb
+C:\Users\Elijah hernandez\Downloads\DataStrucFinals-master (1)\DataStrucFinals-master\DataStrucFinals\obj\Debug\DataStrucFinals.csproj.AssemblyReference.cache
+C:\Users\Elijah hernandez\Downloads\DataStrucFinals-master (1)\DataStrucFinals-master\DataStrucFinals\obj\Debug\DataStrucFinals.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elijah hernandez\Downloads\DataStrucFinals-master (1)\DataStrucFinals-master\DataStrucFinals\obj\Debug\DataStrucFinals.Form1.resources
+C:\Users\Elijah hernandez\Downloads\DataStrucFinals-master (1)\DataStrucFinals-master\DataStrucFinals\obj\Debug\DataStrucFinals.Properties.Resources.resources
+C:\Users\Elijah hernandez\Downloads\DataStrucFinals-master (1)\DataStrucFinals-master\DataStrucFinals\obj\Debug\DataStrucFinals.csproj.GenerateResource.cache
+C:\Users\Elijah hernandez\Downloads\DataStrucFinals-master (1)\DataStrucFinals-master\DataStrucFinals\obj\Debug\DataStrucFinals.csproj.CoreCompileInputs.cache
+C:\Users\Elijah hernandez\Downloads\DataStrucFinals-master (1)\DataStrucFinals-master\DataStrucFinals\obj\Debug\DataStrucFinals.exe
+C:\Users\Elijah hernandez\Downloads\DataStrucFinals-master (1)\DataStrucFinals-master\DataStrucFinals\obj\Debug\DataStrucFinals.pdb
+C:\Users\Elijah hernandez\Downloads\DataStrucFinals-master (1)\DataStrucFinals-master\DataStrucFinals\obj\Debug\DataStrucFinals.Form2.resources
